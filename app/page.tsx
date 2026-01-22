@@ -25,7 +25,6 @@ export default function Home() {
       <CatalogoServicos></CatalogoServicos>
       <ProjetosDestaque></ProjetosDestaque>
       <Footer></Footer>
-      <WhatsAppFloatingButton></WhatsAppFloatingButton>
     </div>
   );
 }
