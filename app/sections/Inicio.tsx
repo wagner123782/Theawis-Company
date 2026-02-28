@@ -75,7 +75,7 @@ const Inicio = () => {
         <div className="mb-10 animate-slide-up">
           <h1 className="text-5xl ">
             <span className="block text-white">
-              Desenvolvedor de últa margem de
+              Desenvolvedor de últra margem de
             </span>
 
             <span
