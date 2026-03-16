@@ -386,10 +386,7 @@ const ProjetosDestaque = () => {
               href="#"
               onClick={(e) => {
                 e.preventDefault();
-                const message = `Olá, quero meu projeto de sucesso. Vi este link: ${window.location.href}`;
-                const waUrl = `https://wa.me/5562991502275?text=${encodeURIComponent(
-                  message,
-                )}`;
+                const waUrl = `https://theawis-company-official-website-structure.catalog.yampi.io/`;
                 window.open(waUrl, "_blank");
               }}
               className="inline-flex items-center gap-3 px-8 py-4 rounded-xl font-bold text-lg 
@@ -399,7 +396,7 @@ const ProjetosDestaque = () => {
                 color: "white",
               }}
             >
-              <span>Quero Meu Projeto de Sucesso</span>
+              <span>Planos Completos</span>
               <FontAwesomeIcon icon={faArrowRight} className="w-5 h-5" />
             </a>
             <p className="text-gray-500 text-sm mt-4">
