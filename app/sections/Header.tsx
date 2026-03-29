@@ -362,7 +362,7 @@ const Header = () => {
       </div>
 
       {/* Animações CSS */}
-      <style jsx>{`
+      <style jsx global>{`
         @keyframes fadeIn {
           from {
             opacity: 0;
