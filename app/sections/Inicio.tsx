@@ -154,7 +154,7 @@ const Inicio = () => {
           </a>
 
           <a
-            href="#serviços"
+            href="https://drive.google.com/file/d/1jFx-pPuzQ2a1OmMDge8fkqQ5LMyKWDL1/view"
             className="group relative px-3 py-4 font-bold text-lg rounded-xl transition-all duration-300 transform hover:-translate-y-1 border-2 flex-1 max-w-xs mx-auto sm:mx-0 hover:shadow-lg inline-block text-center"
             style={{
               borderColor: `${primaryColor}40`,
@@ -163,7 +163,7 @@ const Inicio = () => {
             }}
           >
             <span className="relative z-10 flex items-center justify-center gap-2">
-              Nossos Servicos
+              Que tipo de empresa nos somos
               <svg
                 className="w-5 h-5 group-hover:translate-x-1 transition-transform"
                 style={{ color: primaryColorLight }}
